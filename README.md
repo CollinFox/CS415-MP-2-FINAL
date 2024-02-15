@@ -1,2 +1,4 @@
 # CS415 MP 2 FINAL
  PART 1 ACTUAL
+VIDEO LINK:
+https://youtu.be/30BTzUFTtvA
